@@ -14,6 +14,7 @@ talk48 = "talk48:main"
 python = "^3.11"
 textual = "^0.27.0"
 openai = "^0.27.7"
+python-dotenv = "^1.0.0"
 
 
 [tool.poetry.group.dev.dependencies]
